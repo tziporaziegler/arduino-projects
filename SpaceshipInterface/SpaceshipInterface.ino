@@ -27,7 +27,7 @@ void loop() {
     // Turn the green LED on
     digitalWrite(3, LOW);
 
-    // Turn one red LED on and one red LED \off
+    // Turn one red LED on and one red LED off
     digitalWrite(4, LOW);
     digitalWrite(5, HIGH);
 
