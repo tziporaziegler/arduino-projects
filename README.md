@@ -3,7 +3,7 @@ A collection of beginner Arduino projects.
 
 ## Miscellaneous Projects
 
-### Morse Code
+### [Morse Code](MorseCode)
 
 ## Arduino Starter Kit Projects
 
