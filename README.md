@@ -10,3 +10,5 @@ A collection of beginner Arduino projects.
 The following exercises are from the Arduino Projects Book, which comes with the [Arduino Starter Kit](https://store.arduino.cc/usa/arduino-starter-kit).
 
 ### [Spaceship Interface](SpaceshipInterface)
+
+### [Love-o-Meter](Love-o-Meter)
