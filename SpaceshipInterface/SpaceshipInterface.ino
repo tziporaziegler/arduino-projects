@@ -31,14 +31,14 @@ void loop() {
     digitalWrite(4, LOW);
     digitalWrite(5, HIGH);
 
-    // Wait for a quatar second
+    // Wait for a quarter second
     delay(250);
 
     // Toggle the red LEDs
     digitalWrite(4, HIGH);
     digitalWrite(5, LOW);
 
-    // Wait for a quatar second
+    // Wait for a quarter second
     delay(250);
   }
 }
