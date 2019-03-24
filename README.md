@@ -14,3 +14,5 @@ The following exercises are from the Arduino Projects Book, which comes with the
 ### [Love-o-Meter](Love-o-Meter)
 
 ### [Color Mixing Lamp](ColorMixingLamp)
+
+### [Mood Cue](MoodCue)
