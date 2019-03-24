@@ -16,3 +16,5 @@ The following exercises are from the Arduino Projects Book, which comes with the
 ### [Color Mixing Lamp](ColorMixingLamp)
 
 ### [Mood Cue](MoodCue)
+
+### [Light Theremin](LightTheremin)
