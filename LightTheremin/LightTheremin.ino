@@ -1,4 +1,4 @@
-int const photoresistorSensorPin = A0;
+const int photoresistorSensorPin = A0;
 int photoresistorSensorValue;
 
 // The sensor's high and low values will be used to scale the frequency.
@@ -11,13 +11,13 @@ int photoresistorSensorHigh = 0;
 // Use the on-board LED connected to pin 13.
 const int ledPin = 13;
 
-int const piezoPin = 8;
+const int piezoPin = 8;
 
 // Set the range of frequencies the Ardunio will output.
-int const piezoFrequencyLow = 50;
-int const piezoFrequencyHigh = 4000;
+const int piezoFrequencyLow = 50;
+const int piezoFrequencyHigh = 4000;
 
-int const noteDuration  = 20; // Play the note for 20 milliseconds.
+const int noteDuration  = 20; // Play the note for 20 milliseconds.
 
 void setup() {
   // Use the LED to indicate the sensor's calibration state.
