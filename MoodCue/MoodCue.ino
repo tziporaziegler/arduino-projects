@@ -2,7 +2,7 @@
 
 Servo myServo;
 
-int const potentiometerPin = A0;
+const int potentiometerPin = A0;
 int potentiometerVal;
 int angle;
 
