@@ -21,3 +21,5 @@ The following projects are based on exercises from the Arduino Projects Book, wh
 ### [Light Theremin](LightTheremin)
 
 ### [Keyboard Instrument](KeyboardInstrument)
+
+### [Digital Hourglass](DigitalHourglass)
