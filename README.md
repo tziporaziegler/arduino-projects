@@ -6,6 +6,8 @@ A collection of beginner Arduino projects.
 
 ### [Morse Code](MorseCode)
 
+### [Smooth Thermistor](SmoothThermistor)
+
 ## Arduino Starter Kit Projects
 
 The following projects are based on exercises from the Arduino Projects Book, which comes with the [Arduino Starter Kit](https://store.arduino.cc/usa/arduino-starter-kit). Some of the projects have been expounded upon and are a bit more complex than the projects mentioned in the book.
