@@ -29,3 +29,5 @@ The following projects are based on exercises from the Arduino Projects Book, wh
 ### [Motorized Pinwheel](MotorizedPinwheel)
 
 ### [Zoetrope](Zoetrope)
+
+### [Crystal Ball](CrystalBall)
