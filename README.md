@@ -27,3 +27,5 @@ The following projects are based on exercises from the Arduino Projects Book, wh
 ### [Digital Hourglass](DigitalHourglass)
 
 ### [Motorized Pinwheel](MotorizedPinwheel)
+
+### [Zoetrope](Zoetrope)
