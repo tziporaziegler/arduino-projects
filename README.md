@@ -33,3 +33,5 @@ The following projects are based on exercises from the Arduino Projects Book, wh
 ### [Crystal Ball](CrystalBall)
 
 ### [Knock Lock](KnockLock)
+
+### [Touchy-feely Lamp](Touchy-feelyLamp)
